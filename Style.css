@@ -1,0 +1,17 @@
+.links {
+    display: flex;
+    align-content: center;
+    justify-content: space-around;
+    width: 100vw;
+}
+
+.links {
+    display: flex;
+    align-content: center;
+    justify-content: space-around;
+    width: 100vw;
+}
+
+h3 {
+    column-count: 3;
+}
